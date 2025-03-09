@@ -11,5 +11,6 @@ serde_json = "1.0"
 confy = "0.5"
 rustyline = "11.0"
 tracing = "0.1"
+home = "0.5"
 tracing-subscriber = "0.3"
 
