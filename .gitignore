@@ -1,0 +1,14 @@
+/target/
+**/*.rs.bk
+*.exe
+*.dll
+*.so
+*.dylib
+.idea/
+.vscode/
+*.swp
+*.swo
+test-output/
+*.log
+Cargo.lock
+config.lua
